@@ -1,0 +1,21 @@
+* {
+    /*margin: auto;*/
+    width: 600px;
+    line-height: 15px;
+    font-family: "Lucida Grande","Lucida Sans Unicode", Tahoma, sans-serif;
+}
+.header {
+    margin: auto;
+}
+ #avatar {
+    width: 120px;border-radius: 50%;
+    position: relative;
+    top: -5px;
+    left: 30px;
+     /*display: inline-block;*/
+     float: left;
+
+}
+.body {
+    margin-left: 50px;
+}

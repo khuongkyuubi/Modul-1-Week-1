@@ -1,0 +1,26 @@
+* {
+    font-size: 100% ;
+    margin: auto;
+}
+.container {
+    width: 500px;
+    margin: auto;
+}
+#header {
+    text-align: center;
+    color: white;
+    background-color: orange;
+}
+.lable {
+    color: darkblue;
+}
+.row {
+    margin-bottom: 5px;
+}
+[name=hobby] {
+    color: orange;
+}
+
+/*Set width*/
+.col-3 {width: 25%; float: left}
+.col-12 {width: 100%;}
